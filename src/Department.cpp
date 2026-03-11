@@ -2,3 +2,7 @@
 #include <iostream>
 
 using namespace std;
+
+Department::Department() {
+    
+}
